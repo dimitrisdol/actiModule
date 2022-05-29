@@ -1,6 +1,8 @@
+
 Module that enables fast creation of ActiNode CRD along with a client to create 4 actiNode objects.
 
 In order to run:
+
 	1. Pull the repo
 	2. cd actiModule
 	3. cd k8s-client
